@@ -1,6 +1,6 @@
 <img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/mods_logo.png?w=256" alt="Faithful 64x Mods" align="right" height="256px">
 <div align="center">
-  <h1>Faithful 32x Mods</h1>
+  <h1>Faithful 64x Mods</h1>
   <h3>Mod support textures for Faithful 64x.</h3>
 
   ![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/Faithful-64x-Mods)
