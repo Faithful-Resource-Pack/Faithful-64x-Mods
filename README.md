@@ -19,6 +19,6 @@ Select the desired Minecraft version using the dropdown above, then press the bi
 A Vanilla Tweaks-style mod picker for easier and smaller downloads is planned for the future.
 
 ## How to contribute:
-If you want to submit your textures to Faithful 32x Mods, please make a pull request to the correct version branch. If you're making textures for a Minecraft version that's not yet supported, make sure to give the branch you're working on an appropriate Minecraft version number.  
-The [Faithful 32x Guidelines](https://docs.faithfulpack.net/pages/textures/f64-texturing-guidelines) are not strictly enforced. As long as your textures aren't terrible and generally match the artstyle of the rest of the pack, your pull request will be accepted.
+If you want to submit your textures to Faithful 64x Mods, please make a pull request to the correct version branch. If you're making textures for a Minecraft version that's not yet supported, make sure to give the branch you're working on an appropriate Minecraft version number.  
+The [Faithful 64x Guidelines](https://docs.faithfulpack.net/pages/textures/f64-texturing-guidelines) are not strictly enforced. As long as your textures aren't terrible and generally match the artstyle of the rest of the pack, your pull request will be accepted.
 Do note that by submitting your textures you agree to license them under the [Faithful License](https://faithfulpack.net/license).
